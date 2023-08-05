@@ -1,0 +1,45 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+
+.cajas{
+    width: 500px;
+    height: 500px;
+    border: 2px solid #000000;
+    display: inline-flex;
+    flex-direction: row-reverse;
+}
+
+.caja1 {
+    position: relative;
+    top: 150px;
+    margin-top: 0px;
+    width:166.6px;
+    height: 166.6px;
+    background-color: red;
+}
+
+.caja2 {
+    position: relative;
+    top: 150px;
+    margin-top: 0px;
+    width: 166.6px;
+    height: 166.6px;
+    background-color: blue;
+}
+
+.caja3 {
+    position: relative;
+    top: 150px;
+    margin-top: 0px;
+    width: 166.6px;
+    height: 166.6px;
+    background-color: green;
+}
+
+h2{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}

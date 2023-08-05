@@ -1,0 +1,36 @@
+.cajas{
+    border: 2px solid #000000;
+    display: inline-flex;
+    display: flex;
+    justify-content: space-between;
+}
+
+.caja1 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    width:166.6px;
+    height: 166.6px;
+    background-color: red;
+}
+
+.caja2 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    width:166.6px;
+    height: 166.6px;
+    background-color: blue;
+}
+
+.caja3 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    width:166.6px;
+    height: 166.6px;
+    background-color: green;
+}
+
+h2{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
